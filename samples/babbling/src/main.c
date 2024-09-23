@@ -95,7 +95,7 @@ int main(void)
 			err = can_send(dev, &frame, K_NO_WAIT, can_tx_callback, &tx_queue_sem);
 		}
 
-
+	/////
 
 	}
 }
