@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "modules/cmsis/cmsis",
+		"source" : "/home/sive/my_work/zephyrproject/modules/hal/cmsis"
+	}
+}

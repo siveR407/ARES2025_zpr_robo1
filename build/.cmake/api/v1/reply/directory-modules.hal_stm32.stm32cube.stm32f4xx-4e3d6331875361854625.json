@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "modules/hal_stm32/stm32cube/stm32f4xx",
+		"source" : "/home/sive/my_work/zephyrproject/modules/hal/stm32/stm32cube/stm32f4xx"
+	}
+}

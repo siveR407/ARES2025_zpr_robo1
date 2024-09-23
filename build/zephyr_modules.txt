@@ -1,0 +1,3 @@
+"cmsis":"/home/sive/my_work/zephyrproject/modules/hal/cmsis":"${ZEPHYR_CMSIS_CMAKE_DIR}"
+"hal_nordic":"/home/sive/my_work/zephyrproject/modules/hal/nordic":"${ZEPHYR_HAL_NORDIC_CMAKE_DIR}"
+"hal_stm32":"/home/sive/my_work/zephyrproject/modules/hal/stm32":"/home/sive/my_work/zephyrproject/modules/hal/stm32"

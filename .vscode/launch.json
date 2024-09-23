@@ -1,0 +1,24 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "launch",
+            "device": "STM32F407IGHx",
+            "cwd": "${workspaceFolder}",
+            "executable": "build/zephyr/zephyr.elf",
+            "request": "launch",
+            "type": "cortex-debug",
+            "runToEntryPoint": "main",
+            "servertype": "openocd",
+            "configFiles": ["boards/robomasterc/trb_stm32f407/openocd.cfg"],
+            "gdbPath": "${userHome}/my_work/zephyr-sdk-0.16.8/arm-zephyr-eabi/bin/arm-zephyr-eabi-gdb",
+            "configurationAttributes": {
+                "launch": {
+                    "openocd": "/usr/bin/openocd"
+                }
+            }
+        },
+        
+    
+    ]
+}

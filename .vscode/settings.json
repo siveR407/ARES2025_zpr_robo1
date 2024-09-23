@@ -1,0 +1,8 @@
+{
+    "ros.distro": "humble",
+    "cmake.allowCommentsInPresetsFile": true,
+    "cmake.allowUnsupportedPresetsVersions": true,
+    "cmake.cacheInit": null,
+    "cmake.sourceDirectory": "/home/sive/my_work/zephyrproject/robot1/samples/babbling"
+   
+}
